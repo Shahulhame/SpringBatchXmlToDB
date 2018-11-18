@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<users>
+	<user>
+		<id>101</id>
+		<name>Stanly</name>
+		<salary>1000</salary>
+		<teamName>Development</teamName>
+		<userslog>
+			<userlog>
+				<id>1</id>
+				<log>Hi developer</log>
+				<userId>101</userId>
+			</userlog>
+		</userslog>
+	</user>
+	<user>
+		<id>102</id>
+		<name>Shahul</name>
+		<salary>2000</salary>
+		<teamName>HR</teamName>
+		<userslog>
+			<userlog>
+				<id>2</id>
+				<log>Hi HR</log>
+				<userId>102</userId>
+			</userlog>
+		</userslog>
+	</user>
+	<user>
+		<id>103</id>
+		<name>Jamal</name>
+		<salary>3000</salary>
+		<teamName>Architect</teamName>
+		<userslog>
+			<userlog>
+				<id>3</id>
+				<log>Hi Architect</log>
+				<userId>103</userId>
+			</userlog>
+		</userslog>
+	</user>
+</users>
